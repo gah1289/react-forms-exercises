@@ -1,0 +1,24 @@
+.delete-btn {
+	position: relative;
+	background-color: rgba(0, 0, 0, 0.5);
+	color: rgba(255, 255, 255, 0.5);
+	margin-right: 0;
+	margin-left: auto;
+	display: block;
+	font-weight: bold;
+	border: none;
+}
+
+.delete-btn:hover {
+	background-color: rgba(0, 0, 0, 0.6);
+	color: rgba(255, 255, 255, 1);
+}
+
+.hide-box {
+	display: none;
+}
+
+.Box {
+	margin: 10px;
+	padding: 1px;
+}

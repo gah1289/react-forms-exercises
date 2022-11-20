@@ -1,0 +1,11 @@
+.remove-task {
+	background-color: rgba(255, 0, 0, 0.5);
+	border: none;
+	border-radius: 100%;
+	margin-left: 10px;
+	color: white;
+}
+
+.remove-task:hover {
+	background-color: rgba(255, 0, 0, 1);
+}
